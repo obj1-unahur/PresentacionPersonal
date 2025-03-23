@@ -1,6 +1,5 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-Bienvenidos a
 # Programación con objetos I
 ## Presentación Personal
 
